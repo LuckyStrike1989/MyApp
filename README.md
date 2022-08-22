@@ -3,4 +3,4 @@
 * git add
 * git commit
 * git push
-* git -am commit
+* git commit -am
